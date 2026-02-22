@@ -1,52 +1,42 @@
-<h1 align="center" style="color:white;">Hi 👋, I'm Thushara Sandeepani</h1>
-
-<h3 align="center" style="color:white;">
-Computer Science Undergraduate | AI | Software Testing | Web Development
-</h3>
+<h1 align="center" style="color:#58A6FF;">Hi 👋, I'm Thushara Sandeepani</h1>
+<h3 align="center" style="color:#1F6FEB;">CS Undergraduate | Interested in AI, Testing, and Web Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Computer+Science+Student;Future+Software+Engineer;AI+Enthusiast" />
+  <img src="https://komarev.com/ghpvc/?username=thusharaev&label=Profile%20views&color=1F6FEB&style=flat-square" alt="thusharaev" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thusharaev&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🖤 About Me
-
-- 🎓 Computer Science Undergraduate  
-- 🤖 Interested in Artificial Intelligence  
-- 🌐 Interested in Web Development  
-- 🧪 Interested in Software Testing  
-- 📚 Currently learning Computer Science at University of Vavuniya  
-- 📫 Email: **thusharasvidanage@gmail.com**
+## 💙 About Me
+- 🔭 I’m currently working on **Building My Portfolio**
+- 🌱 I’m currently learning **AI, Software Testing & Web Development**
+- 💬 Ask me about **C, Java, Python, Web Design**
+- 📫 Reach me at: **thusharasvidanage@gmail.com**
 
 ---
 
-## 🌐 Connect with me
-
+## 🌐 Connect With Me
 <p align="center">
-
-<a href="https://linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-
-<a href="https://facebook.com/">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://facebook.com/your-link" target="blank">
+<img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=58A6FF"/>
 </a>
-
-<a href="https://instagram.com/">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://instagram.com/your-link" target="blank">
+<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
 </a>
-
 </p>
 
 ---
 
-## ⚙️ Languages and Tools
-
+## ⚡ Languages & Tools
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,php,mysql,linux,bootstrap,sass" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,php,mysql,linux,bootstrap,sass&theme=dark" />
 </p>
 
 ---
@@ -54,35 +44,19 @@ Computer Science Undergraduate | AI | Software Testing | Web Development
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thusharaev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thusharaev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thusharaev&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharaev&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thusharaev&theme=tokyonight&hide_border=true&background=0A192F"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## ☕ Support Me
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=thusharaev&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thusharaev&label=Profile%20Views&color=ffffff&style=flat" />
-</p>
-
----
-
-## 🖤 Quote
-
-<p align="center">
-"Code. Learn. Build. Repeat."
+<a href="https://www.buymeacoffee.com/cofee">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0A192F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=58A6FF"/>
+</a>
 </p>
