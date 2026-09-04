@@ -12,7 +12,7 @@
 ---
 
 ## 💙 About Me
-- 🔭 I’m currently working on **Building My Portfolio**
+- 🔭 I’m currently working on **Building My projects and research**
 - 🌱 I’m currently learning **AI, Software Testing & Web Development**
 - 💬 Ask me about **C, Java, Python, Web Design**
 - 📫 Reach me at: **thusharasvidanage@gmail.com**
