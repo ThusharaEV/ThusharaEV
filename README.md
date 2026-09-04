@@ -21,15 +21,15 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://www.linkedin.com/in/thushara-sandeepani-5672a51a0/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-<a href="https://facebook.com/your-link" target="blank">
-<img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=58A6FF"/>
-</a>
-<a href="https://instagram.com/your-link" target="blank">
-<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
-</a>
+##<a href="https://facebook.com/your-link" target="blank">
+##<img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=58A6FF"/>
+##</a>
+##<a href="https://instagram.com/your-link" target="blank">
+##<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
+##</a>
 </p>
 
 ---
